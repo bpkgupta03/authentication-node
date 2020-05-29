@@ -20,7 +20,10 @@ const userSchema = new mongoose.Schema({
 });
 
 //console.log(process.env.API_KEYS);
+<<<<<<< HEAD
 
+=======
+>>>>>>> deb63a513144bb6e3bc70ec05c5b3f083a12cc31
 
 const User = mongoose.model("User", userSchema);
 
